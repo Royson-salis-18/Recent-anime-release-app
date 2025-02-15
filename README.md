@@ -62,7 +62,7 @@ This project is licensed under the **MIT License**. See `LICENSE` for details.
 ---
 
 ## Contact
-For any issues or suggestions, reach out via **GitHub Issues** or email **your.email@example.com**.
+For any issues or suggestions, reach out via **GitHub Issues** or email **roysonsalis2005@gmail.com**.
 
 ---
 
